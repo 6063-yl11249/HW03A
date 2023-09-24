@@ -44,11 +44,12 @@ Link:
 
 
 Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![Yayoi Kusama Work-A](https://dm-gy-6063-2023f-d.github.io/assets/homework/03/kusama-00.jpg)
 
 
 Image on repo:  
-![image description](./file-name.jpg)
+![Process 1](./HW03A-01.jpg)  
+![Process 2](./HW03A-02.jpg)
 
 
 To start a new line, add two spaces at the end of a line, like this:  
